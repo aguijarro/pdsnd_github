@@ -5,7 +5,7 @@ Sunday, August 26, 2018
 Post your Work in GitHub
 
 ### Description
-Describe what your project is about and what it does
+In this project, you will create a GitHub repository and your local repository. You will work on a repo for your BikeShare project, making multiple branches, making edits to file on those branches (e.g., such as a readme file and yourpython code), and then you will commit the changes to your remote repository.
 
 ### Files used
 Include the files used
