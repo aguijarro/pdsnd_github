@@ -2,7 +2,7 @@
 Sunday, August 26, 2018 
 
 ### Project Title
-Replace the Project Title
+Post your Work in GitHub
 
 ### Description
 Describe what your project is about and what it does
